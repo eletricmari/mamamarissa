@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+    color: #a65ed6;
+    text-align: center;
+    font-size:larger
+}
+.imagem-principal{
+    width: 20%;
+}
+.cabeçalho{
+    background-color: rgb(226, 14, 145);
+    color: lightskyblue;
+   font-family:monospace;
+    display: flex;
+    justify-content: space-around;
+}
